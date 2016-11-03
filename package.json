@@ -1,0 +1,34 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "techblog",
+  "main": "app.js",
+  "scripts": {
+    "test": "node-dev app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boylufeng20141007/lux.com.git"
+  },
+  "keywords": [
+    "vue.js",
+    "webpack",
+    "koa.js",
+    "sass",
+    "compass",
+    "mysql"
+  ],
+  "author": "lux.lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boylufeng20141007/lux.com/issues"
+  },
+  "homepage": "https://github.com/boylufeng20141007/lux.com#readme",
+  "devDependencies": {
+    "vue": "^2.0.3",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
+}
